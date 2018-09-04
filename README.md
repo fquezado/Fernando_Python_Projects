@@ -1,2 +1,2 @@
 # HELLO-WORLD
-just me figuring out how this works
+Just me figuring out how this works. Microsft recruiter said I needed to have personal projects, so here I am!
