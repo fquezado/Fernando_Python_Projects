@@ -16,4 +16,4 @@ if(user_BMI > 25):
 
 
 print("Your BMI is:", round(user_BMI, 1), "\n" + BMI_indicator)
-# prints user BMI and if overweight, underweight or optimal weight
+# prints user BMI and if they are: overweight, underweight or optimal weight
