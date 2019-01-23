@@ -36,6 +36,6 @@ def software_sales_calc(n):  # sales_calc function allows me to calculate and pr
         print("The total cost of your purchase was $" + rounding(purchase_price), "with a discount of $" + rounding(discount))
 
 
-packages_ordered = float(input("Enter the number of packages ordered: "))  # asks user for input
-software_sales_calc(packages_ordered)  # calling my function and passing user input into it
+packages_ordered = float(input("Enter the number of packages ordered: "))  # asking user for input
+software_sales_calc(packages_ordered)  # calling my function and passing user input into it, for n
 
